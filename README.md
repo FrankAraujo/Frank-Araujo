@@ -14,4 +14,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
->Aprendiendo cada día, creando con pasión y compartiendo conocimiento.
+>Aprendiendo cada día. línea por línea.
